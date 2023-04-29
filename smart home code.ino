@@ -2,8 +2,8 @@
 #define BLYNK_DEVICE_NAME "BEEE NodeMCU"
 #define BLYNK_AUTH_TOKEN "ht1dG8x1dYJONGmm1Kf-_OfvFaGs9nEz"
 
-char ssid[] = "darshanking";
-char pass[] = "techy1234";
+char ssid[] = "WI-FI";
+char pass[] = "PASSWORD";
 
 bool fetch_blynk_state = true;
 
